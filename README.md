@@ -1,4 +1,4 @@
-## Cercube with extra features!
+## Cercube with extra features
 
 ![IMG_3425](https://user-images.githubusercontent.com/52943116/179364947-760ffb4d-a280-4203-9a9d-b2b7462a3c69.PNG)
 
@@ -13,37 +13,37 @@
 
 # Credits
 
-- [Majd Alfhaily](https://twitter.com/freemanrepo) for [Cercube](https://apt.alfhaily.me/depiction/FDXO5R).
+* [Majd Alfhaily](https://twitter.com/freemanrepo) for [Cercube](https://apt.alfhaily.me/depiction/FDXO5R).
 
-- [Galactic-Dev](https://github.com/Galactic-Dev) and [Luewii](https://github.com/Luewii) for [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock).
+* [Galactic-Dev](https://github.com/Galactic-Dev) and [Luewii](https://github.com/Luewii) for [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock).
 
-- [HASHBANG Productions](https://github.com/hbang) for [Alderis Color Picker](https://github.com/hbang/Alderis) - a dependency of iSponsorBlock.
+* [HASHBANG Productions](https://github.com/hbang) for [Alderis Color Picker](https://github.com/hbang/Alderis) - a dependency of iSponsorBlock.
 
-- [PoomSmart](https://twitter.com/poomsmart) - the developer of many tweaks used by CercubePlus, see [Version info - Download](#download) for more details.
+* [PoomSmart](https://twitter.com/poomsmart) - the developer of many tweaks used by CercubePlus, see [Version info - Download](#download) for more details.
 
-- [level3tjg](https://twitter.com/level3tjg) for [YTNoHoverCards](https://github.com/level3tjg/YTNoHoverCards) and [YTMiniplayerEnabler](https://github.com/level3tjg/YTMiniplayerEnabler).
+* [level3tjg](https://twitter.com/level3tjg) for [YTNoHoverCards](https://github.com/level3tjg/YTNoHoverCards) and [YTMiniplayerEnabler](https://github.com/level3tjg/YTMiniplayerEnabler).
 
-- [BandarHL](https://twitter.com/bandarhl) for a bunch of improvements.
+* [BandarHL](https://twitter.com/bandarhl) for a bunch of improvements.
 
-- [MiRO92](https://twitter.com/miro92) for [YTNoShorts](https://github.com/MiRO92/YTNoShorts/blob/main/Tweak.h).
+* [MiRO92](https://twitter.com/miro92) for [YTNoShorts](https://github.com/MiRO92/YTNoShorts/blob/main/Tweak.h).
 
-- [YouTube Extensions](https://github.com/CokePokes/YoutubeExtensions) by [CokePokes](https://github.com/CokePokes/).
+* [YouTube Extensions](https://github.com/CokePokes/YoutubeExtensions) by [CokePokes](https://github.com/CokePokes/).
 
-- [theos team](https://github.com/theos/theos) for theos & theos-jailed.
+* [theos team](https://github.com/theos/theos) for theos & theos-jailed.
 
-- Thanks to all the translators who have contributed to CercubePlus. Your contribution is highly appreciated!
+* Thanks to all the translators who have contributed to CercubePlus. Your contribution is highly appreciated!
 
 # Features
 
 1. **Cercube:**
 
-- Block all advertisements & Enable background playback.
+* Block all advertisements & Enable background playback.
 
-- Set default player quality on WiFi & Celullar.
+* Set default player quality on WiFi & Celullar.
 
-- Save videos in high resolution, save videos as audio-only, save public playlists (beta).
+* Save videos in high resolution, save videos as audio-only, save public playlists (beta).
 
-- And many more...
+* And many more...
 
 2. **iSponsorBlock:** Skips annoying sponsor ads inside videos. iSponsorBlock is based on [SponsorBlock engine](https://sponsor.ajay.app/). Basically, this is the iOS version of the SponsorBlock extension.
 
@@ -62,11 +62,11 @@
 
 8. **YTABGoodies:** allow you to disable some YouTube A/B testing features. It is a combination of several tweaks, such as:
 
-- YouAreThere: disable "Video paused. Continue watching?" popup in the YouTube app when you play a long video.
+* YouAreThere: disable "Video paused. Continue watching?" popup in the YouTube app when you play a long video.
 
-- YouRememberCaption: make YouTube remember your video caption setting (if not already).
+* YouRememberCaption: make YouTube remember your video caption setting (if not already).
 
-- YTNoCheckLocalNetwork: block the Local Network permission popup.
+* YTNoCheckLocalNetwork: block the Local Network permission popup.
 
 9. **NOYTPremium:** remove YouTube Premium upsell alerts.
 
@@ -81,19 +81,19 @@ any many more...
 
 3. **YouPiP** (iOS 14.0 - 14.4.2): due to Apple's fault, you may encounter the *speedup-bug* as described [here](https://drive.google.com/file/d/1NKdv1fr_KRWgD8nhkMDfG2eLBnbdeVtX/view?usp=sharing). The bug also happens when you try to play multi-sources of sound at the same time. Enable **LegacyPiP** is a workaround. Keep in mind that LegacyPiP also removes UHD quality and breaks YouTube Autoplay next. Use it at your own risk!
 
-4. **Not a bug**: 
+4. **Not a bug**:
 
-- The app won't be able to receive push notifications if you use a free developer account to sideload it. 
+* The app won't be able to receive push notifications if you use a free developer account to sideload it.
 
-- It's impossible to fix deep-link (a.k.a Open in the YouTube app). However, you can use this [Shortcuts](https://shortcutsgallery.com/shortcuts/open-in-youtube/) as a workaround (tested on iOS 14). **Credit:** RandomAccessMemories#5025
+* It's impossible to fix deep-link (a.k.a Open in the YouTube app). However, you can use this [Shortcuts](https://shortcutsgallery.com/shortcuts/open-in-youtube/) as a workaround (tested on iOS 14). **Credit:** RandomAccessMemories#5025
 
 # Download (IPA)
 
-- **CercubePlus** (or you can call it Cercube+) requires iOS & iPadOS 13.0 and later. The latest version of **CercubePlus** can be found in the [Release tab](https://github.com/qnblackcat/CercubePlus/releases).
+* **CercubePlus** (or you can call it Cercube+) requires iOS & iPadOS 13.0 and later. The latest version of **CercubePlus** can be found in the [Release tab](https://github.com/qnblackcat/CercubePlus/releases).
 
-- For AltStore user: [Open in AltStore (v17.31.4-5.3.10)](https://tinyurl.com/ycyje6yw) - It will take a while to install because AltStore needs to download the IPA first.
+* For AltStore user: [Open in AltStore (v17.31.4-5.3.10)](https://tinyurl.com/ycyje6yw) - It will take a while to install because AltStore needs to download the IPA first.
 
-- Version info: _(Aug 12)_
+* Version info: *(Aug 12)*
 
 <details>
   <summary>Expand!</summary>
@@ -125,30 +125,33 @@ any many more...
 <details>
   <summary>Poomsmart</summary>
 
-- Paypal: https://poomsmart.github.io/
+* Paypal: <https://poomsmart.github.io/>
 
 </details>
 
 <details>
   <summary>Bandar Alruwaili (BandarHL)</summary>
 
-- Paypal: https://www.paypal.com/paypalme/BandarHL
+* Paypal: <https://www.paypal.com/paypalme/BandarHL>
+
 </details>
 
 <details>
   <summary>Galactic-dev</summary>
   
-- Paypal: https://www.paypal.com/paypalme/DBrett684 
+* Paypal: <https://www.paypal.com/paypalme/DBrett684>
 
-- Venmo: https://venmo.com/u/DavidBrett
+* Venmo: <https://venmo.com/u/DavidBrett>
+
 </details>
 
 <details>
   <summary>MiRO92</summary>
   
-- CashApp: https://cash.app/$MiRO92M
- 
-- Other payment methods are available in uYou's settings.
+* CashApp: <https://cash.app/$MiRO92M>
+
+* Other payment methods are available in uYou's settings.
+
 </details>
 
 # Building (optional)
